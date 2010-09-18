@@ -1,6 +1,6 @@
 <?php
 
-	class twtmore
+	class Twtmore
 	{
 
 		public $apiKey = false;
