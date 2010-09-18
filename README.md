@@ -12,7 +12,7 @@ Sending a Tweet
 ---------------
 To send a tweet, use the following function:
 	echo $twtmore->tweet("username", "This is a test of the twtmore PHP Class. It aims to make the twtmore API easier to use in PHP, as well as making your code cleaner. This tweet is now way over 140 characters.");
-You can disable Staging by adding `false` to the end of the function (`tweet("username", "tweet", false);`).
+You can disable Staging by adding `false` to the end of the function - `tweet("username", "tweet", false);`.
 
 Getting a Tweet
 ---------------
